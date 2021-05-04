@@ -13,6 +13,19 @@ The presentation gives a high-level overview of our approach, findings and recom
 ### Data
 The dataset can be found in this repository. 
 
+### Data Analysis 
+
+![image](https://user-images.githubusercontent.com/36000513/116994916-4888cf80-acd1-11eb-9138-9509c3d7aad4.png)
+29.4% of customers have a credit card
+
+![image](https://user-images.githubusercontent.com/36000513/116994949-550d2800-acd1-11eb-93f8-dc3f433b5168.png)
+59.6% users use online banking
+
+![image](https://user-images.githubusercontent.com/36000513/116994994-68b88e80-acd1-11eb-9634-7655a0f2be2b.png)
+
+
+
+
 ### Blog Post
 A blog post has been written for this project.
 
