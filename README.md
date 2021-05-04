@@ -24,10 +24,7 @@ The dataset can be found in this repository.
 59.6% users use online banking
 
 
-
-### Blog Post
-A blog post has been written for this project.
-
+## Conclusion
 
 In this problem Bank XYL wanted to explore different ways to create marketing strategies with better target marketing increasing success ratio with minimal budget.
 Bank XYL provided with the task to predict the likelyhood of a liability customer buying personal Loans. 
